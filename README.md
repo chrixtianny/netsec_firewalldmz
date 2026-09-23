@@ -1,8 +1,8 @@
 # Firewall + DMZ: Segurança de Perímetro e Defense in Depth
 
-**Disciplina:** Segurança de Redes
-**Autores:** Pedro Augusto Santos da Silva e Christianny Kelly Silva dos Santos
-**Ambiente de Execução:** Windows, Docker Desktop e Kathará
+**Disciplina:** Segurança de Redes<br>
+**Autores:** Pedro Augusto Santos da Silva e Christianny Kelly Silva dos Santos<br>
+**Ambiente de Execução:** Windows, Docker Desktop e Kathará<br>
 
 ---
 
