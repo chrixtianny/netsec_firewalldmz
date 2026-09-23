@@ -1,0 +1,5 @@
+ifconfig eth0 198.51.100.2/30 up
+ifconfig eth1 192.168.100.1/30 up
+route add default gw 198.51.100.1
+echo 1 > /proc/sys/net/ipv4/ip_forward
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
